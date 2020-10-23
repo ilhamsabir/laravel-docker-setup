@@ -23,3 +23,6 @@ yarn-error.log
 /src/Homestead.yaml
 /src/npm-debug.log
 /src/yarn-error.log
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
